@@ -168,6 +168,11 @@ def description(machine_gesture, user_gesture):
 html_title = "<h1 style='text-align:center;color:#FF036A'>Chifoumy plus - The Game</h1>"
 st.markdown(html_title, unsafe_allow_html=True)
 
+st.write("""
+📝 Sources et explications :
+[https://github.com/pbejian/chifoumy-plus-the-game](https://github.com/pbejian/chifoumy-plus-the-game)
+""")
+
 #-------------------------------------------------------------------------------
 
 file = open("scores.txt", "r")
