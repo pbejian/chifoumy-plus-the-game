@@ -165,7 +165,7 @@ def description(machine_gesture, user_gesture):
 
 #===============================================================================
 
-html_title = "<h1 style='color:#FF036A'>Chifoumy plus - The Game</h1>"
+html_title = "<h1 style='text-align:center;color:#FF036A'>Chifoumy plus - The Game</h1>"
 st.markdown(html_title, unsafe_allow_html=True)
 
 #-------------------------------------------------------------------------------
