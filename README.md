@@ -13,4 +13,4 @@ Et voici un schéma qui résume toutes les règles :
 
 L'application est exécutable en ligne à l'adresse suivante :
 
-🚀 [https://pbejian-chifoumy-plus-appapp-7zyxmr.streamlit.app](https://pbejian-chifoumy-plus-appapp-7zyxmr.streamlit.app)
+🚀 [https://pbejian-chifoumy-plus-the-game-appapp-2gyy5a.streamlit.app](https://pbejian-chifoumy-plus-the-game-appapp-2gyy5a.streamlit.app)
