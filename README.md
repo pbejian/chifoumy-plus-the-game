@@ -9,7 +9,7 @@ expliquant les règles du jeux à cinq positions. Nous avons remplacé le lézar
 
 Et voici un schéma qui résume toutes les règles :
 
-<img style="text-align:center" src="RPSLS.png" alt= "" width="400">
+<img style="text-align:center" src="RPSLS.png" alt= "" width="300">
 
 L'application est exécutable en ligne à l'adresse suivante :
 
